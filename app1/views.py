@@ -4,3 +4,6 @@ from django.shortcuts import render
 
 def home(request):
     return render
+
+def about(request):
+    return render
